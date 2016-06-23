@@ -8,6 +8,7 @@ set wrap 			"Turns on textwrap
 set linebreak 		"Only break on whitespace
 set textwidth=0		"Wrapping is only visual
 set tabstop=4		"Tabs are 4 spaces instead of 8
+set shiftwidth=4
 
 "	UI
 set number			"Turns on line numbers
