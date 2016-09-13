@@ -1,0 +1,18 @@
+{
+   "author": "Aidan Jalali (Rainbowlemon)",
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "A simple, ultra-lightweight clock to replace your tab menu.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAowx6OPjnvIkRI3FTHUZ2uMQDB8ZYZob0iZKlqI6kxZAMCqgeIaRVp0DEBEx+IWwkpir0MlNY+LgvxNIVfjqrij0dVTIX52GNn1m13Df2cm5D9uflPnZ6/qEshtO3d3FKn8eZrL4XDfjlNvqd5tKIH+En5D/F7CxozCON05/cXcuZqh3ceA/q8ixQpIWQ0OCdVH2tRPNnVfOdIZOeQgxHDucQbQBTUkV7xuXPnz0OB3UXEhh+E5hGAmT3OqMP0AEvVrd5NjCqKgXHzjgnYCTFZ9lurxGePHHJj62iTbAgZr+EWQYQXs/Kmn2pV1Nzr1rlpj7X0RFfY/4nlOvy14qC7QIDAQAB",
+   "manifest_version": 2,
+   "name": "Minimal New Tab Clock",
+   "offline_enabled": true,
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3"
+}

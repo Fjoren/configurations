@@ -1,0 +1,32 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj+SibYpITHZoEO73deCJY7KVJYk2eeHyrUCU2oT00r2ZpnQAcXP9tF9KalD35cNWpTJIH9jNf2GGZ6PvarATeiQfhtR9irkj9EHmqcHp/K9v5J+OhBDaNz9vuXbSw2RU9MTZmqrAQUqC0Ei8fRnr3OIHJrG4cRx8Aw6UlLQoN4n/zw6ftfnwc8GKv979FAP8j879XxauuriYKGznlbjyoLMLgszySTzFc1BoTsiUGoFMZOgE/1dCg/8ShNgh8fdh09Am83MxMmKTa+ZfpN/Q3rt+uE5yqpd/NSf90ivZDtFLis81b/OeAsf08wxKNtizD/amVqw/AlX/QVvFSROXkwIDAQAB",
+   "manifest_version": 2,
+   "name": "Minimal Modern",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 34, 34, 34 ],
+         "button_background": [ 38, 50, 56, 1 ],
+         "frame": [ 66, 116, 201 ],
+         "ntp_background": [ 38, 50, 56 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 229, 232, 234 ],
+         "tab_text": [ 38, 50, 56 ],
+         "toolbar": [ 236, 239, 241 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
