@@ -1,6 +1,7 @@
 "	Color
 set t_Co=256
-colorscheme default	"Use default.vim colorscheme (forked in github)
+set background=dark
+colorscheme gruvbox	"Use default.vim colorscheme (forked in github)
 syntax enable 		"Syntax highlighting
 
 "	Spaces & Tabs
@@ -19,3 +20,5 @@ set showmatch		"Matches open and close brackets, parens, etc.
 "	Movement
 nnoremap j gj		"Visual line movement
 nnoremap k gk		
+nnoremap l h
+nnoremap ; l

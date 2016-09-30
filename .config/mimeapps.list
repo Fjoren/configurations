@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-19N1NY.desktop
+message/rfc822=userapp-Thunderbird-19N1NY.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-19N1NY.desktop;
+message/rfc822=userapp-Thunderbird-19N1NY.desktop;

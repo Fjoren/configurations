@@ -1,3 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/jeffrey/.config/i3'
+let g:netrw_dirhist_2='/home/jeffrey/.local/share/applications'
+let g:netrw_dirhist_3='/home/jeffrey/development/Sigmoid/turnin'
+let g:netrw_dirhist_4='/home/jeffrey/development/82G/venv'
+let g:netrw_dirhist_5='/home/jeffrey/.config/i3blocks'
