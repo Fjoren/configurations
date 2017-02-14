@@ -32,6 +32,10 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec termite
 
+# start a floating terminal
+for_window [class="FTERM"] floating enable
+bindsym $mod+Shift+Return exec termite --class FTERM
+
 # kill focused window
 bindsym $mod+Shift+q kill
 
@@ -176,8 +180,8 @@ exec compton -b
 
 exec termite
 
-assign [class="chromium"] 2
-exec chromium
+assign [class="Vivaldi-stable"] 2
+exec vivaldi-stable
 
 for_window [class="Spotify"] move to workspace 3
 exec spotify --force-device-scale-factor=1.25
